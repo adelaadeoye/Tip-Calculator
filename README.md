@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/JVWpsnJ6Fm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Recordit](http://recordit.co/).
 
 ## Notes
 
@@ -40,7 +40,7 @@ My code is not DRY I tried to make it DRY but I couldn't it is my firs time usin
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Adela Adeoye]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
